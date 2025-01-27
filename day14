@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # Step 1: Load the dataset
 # Replace "drug_data.csv" with the path to your dataset file
-data = pd.read_csv("drug_data.csv")
+data = pd.read_csv("Pharma_data.csv")
 
 # Step 2: Data Cleaning
 print("Dataset Information:")
